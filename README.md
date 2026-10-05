@@ -2,6 +2,8 @@
 
 # Piston Bounce Fix
 
+![Piston Bounce Fix](assets/icon.png)
+
 A server-side Fabric mod for Minecraft 26.3 that fixes the vanilla bug where a piston fails to launch players standing on a slime block.
 
 ## What it fixes

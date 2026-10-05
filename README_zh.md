@@ -2,6 +2,8 @@
 
 # Piston Bounce Fix
 
+![Piston Bounce Fix](assets/icon.png)
+
 一个用于 Minecraft 26.3 的服务端 Fabric 模组，修复活塞无法将站在史莱姆方块上的玩家弹起的原版 Bug。
 
 ## 修复内容
